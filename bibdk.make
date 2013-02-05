@@ -97,6 +97,10 @@ projects[ting_openformat][download][url] = git@github.com:DBCDK/ting_openformat.
 projects[ting_openformat][download][tag] = 7.x-0.8.1
 
 ; --- Bibliotek.dk ---
+projects[bibdk_adhl][type] = module
+projects[bibdk_adhl][download][type] = git
+projects[bibdk_adhl][download][url] = git@github.com:DBCDK/bibdk_adhl.git
+projects[bibdk_adhl][download][tag] = 7.x-0.1
 
 projects[bibdk_borchk][type] = module
 projects[bibdk_borchk][download][type] = git
