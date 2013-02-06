@@ -2,7 +2,7 @@ api = 2
 core = 7.x
 
 ; --- Libraries ---
-
+# this is to be shown
 ; Profiler lib for profile
 libraries[profiler][download][type] = git
 libraries[profiler][download][url] = http://git.drupal.org/project/profiler.git
